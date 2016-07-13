@@ -2,3 +2,5 @@
 *.iml
 *.iws
 out/
+target/
+derby.log
