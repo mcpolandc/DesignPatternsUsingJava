@@ -1,4 +1,4 @@
-package com.adapter;
+package com.structural.adapter.simpledemo;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.List;
 *
 *
 *
-*   Simple demonstration of using an existing implementation of the adapter pattern
+*   Simple demonstration of using an existing implementation of the structural pattern
 *
 *       Converting array to list
 *
